@@ -20,17 +20,3 @@ Add your attributes into the attributes.json file. You can add attributes for ev
 
 If you want to generate unrevealed metadata for a collection, you can remove the dynamic URL of the image and replace it with an unrevealed image URL.
 
-You can remove the attributes if you don't want to add traits and values.
-
-## Author
-
-👤 **Jayamal Hettiarachchi**
-
-* Github: [@ShanukJ](https://github.com/ShanukJ)
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
